@@ -1,0 +1,22 @@
+{
+    "app": "7",
+    "scope": "ALL",
+    "desktop": {
+        "js": [
+            "src/_common/lib/js/jquery-3.7.1.min.js",
+            "src/_common/lib/js/jquery-ui.min.js",
+            "src/_common/lib/js/kuc.min.js",
+            "src/_common/lib/js/gridjs.umd.js",
+            "src/日報/desktop/js/nippoApp.js",
+            "src/日報/desktop/js/nippoAppSearch.js"
+        ],
+        "css": [
+            "src/_common/lib/css/mermaid.min.css",
+            "src/日報/desktop/css/nippoStyleSheet.css"
+        ]
+    },
+    "mobile": {
+        "js": [],
+        "css": []
+    }
+}

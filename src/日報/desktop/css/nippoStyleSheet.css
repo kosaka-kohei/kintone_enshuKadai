@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+}
+
+.button-container {
+    display: flex;
+}
+
+#dropdown {
+    margin: 12px;
+}
+
+#fromData {
+    margin: 12px;
+}
+
+#toData {
+    margin: 12px;
+}
+
+#category {
+    margin: 12px;
+}
+
+#Button {
+    margin: 12px;
+    margin-top: 30px;
+}
+
+#ClearButton {
+    margin: 12px;
+    margin-top: 30px;
+}

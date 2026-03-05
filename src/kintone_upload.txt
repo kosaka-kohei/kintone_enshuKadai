@@ -1,0 +1,1 @@
+.\kintone_upload.bat nippo-manifest.json
