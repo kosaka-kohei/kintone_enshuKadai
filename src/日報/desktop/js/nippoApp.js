@@ -23,7 +23,7 @@
         // 日報一括登録レコードIDフィールドを非活性にする
         event.record.日報一括登録レコードID.disabled = true;
 
-        console.log(event.record);
+        // console.log(event.record);
 
         return event;
 
